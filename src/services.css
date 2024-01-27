@@ -1,0 +1,37 @@
+/*
+  File: service.css page
+  Student’s Name: [Obi christian C]
+  StudentID: [301329284]
+  Date: [27th-01-2024]
+*/
+.services-container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+ol {
+  list-style-type: none; 
+  padding-left: 0; 
+}
+
+li {
+  margin-bottom: 24px;
+}
+
+/* .service-title {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  margin-bottom: 8px;
+} */
+
+.service-description {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 0;
+  line-height: 1.5;
+}

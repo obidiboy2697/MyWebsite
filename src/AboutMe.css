@@ -1,0 +1,63 @@
+
+/* // <!-- css styles for header--> */
+/*
+  File: AboutMe.css page
+  Student’s Name: [Obi christian C]
+  StudentID: [301329284]
+  Date: [27th-01-2024]
+*/
+/* #skill {
+    overflow: auto;
+    
+} */
+
+.skillTitle {
+    margin: 0rem;
+    font-size: 0rem;
+    font-weight: 200;
+    padding-top: 0;
+    margin-bottom: 0rem;
+    
+}
+
+/* .skillDesc {
+    font-weight: 200;
+    font-size: 1.58rem;
+    max-width: 50rem;
+    padding: 10rem;
+    margin-bottom: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+
+.skillBar {
+    display: flex;
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: #f0f0f0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.skillBarImg {
+    object-fit: cover;
+    height: 15rem;
+    width: 15rem;
+    margin-right: 2rem;
+}
+
+/* .skillBarText {
+    text-align: left;
+} */
+
+/* .skillBarText > h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+} */
+
+/* .skillBarText > p {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #555;
+} */
+
+/* Add media queries for responsiveness if needed */

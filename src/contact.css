@@ -1,0 +1,43 @@
+/*
+  File: Contact.css page
+  Student’s Name: [Obi christian C]
+  StudentID: [301329284]
+  Date: [27th-01-2024]
+*/
+
+#ffp{
+ 
+
+
+    
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    
+   
+}
+
+label{
+    font-size:xx-large;
+}
+
+input{
+    font-size: larger;
+}
+
+.submit{
+    font-size:x-large;
+}
+
+p,a{
+    font-size:x-large;
+    text-align: center;
+}
+/* Reset some default margin and padding
+body, h1, h2, h3, p {
+  margin: 0;
+  padding: 0;
+} */
+
